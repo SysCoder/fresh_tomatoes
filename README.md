@@ -14,11 +14,11 @@ Student movie trailer project on Udacity.com
 
 ## Creators
 
-**Marcelus Pelcher**
+**Marcellus Pelcher**
 
 **Udacity**
 
-Note: This was created from an assignment from Udacity.com
+Note: This was created for an assignment from Udacity.com
 
 ## Copyright and license
 
